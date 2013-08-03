@@ -1,0 +1,40 @@
+a:link {
+  color: #38004D }
+a:visited {
+  color: #38004D }
+a:hover {
+  color: #A24FFF }
+a {
+  text-decoration: none }
+
+font
+{
+	font-size: 30px;
+}
+
+.error
+{
+	color: #000000;
+	font-size: 20px;
+}
+
+/*white background*/
+table 
+{
+	border:1.5px solid black;
+	border-collapse: collapse;
+	background-color: #FAE80C;
+}
+
+td
+{
+	padding: 10px;
+}
+
+/*light purple background*/
+body
+{
+	background-color: #A24FFF;
+}
+
+
